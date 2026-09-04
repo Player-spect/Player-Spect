@@ -56,8 +56,6 @@ Construir una carrera internacional en **Cybersecurity / Offensive Security**, d
 
 ### Operating Systems
 
-\
-
 * Linux
 * Windows
 * Bash
