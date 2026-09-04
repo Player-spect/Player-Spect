@@ -219,7 +219,7 @@ Mi enfoque es:
 Pentesting Fundamentals
      │    
      ▼
-   EJPTv2
+   eJPTv2
      │ 
      ▼
 Técnico Analista Programador
