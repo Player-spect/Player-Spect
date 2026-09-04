@@ -247,11 +247,6 @@ Carrera internacional
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">   <img src="https://github-readme-stats.vercel.app/api?username=Player-spect&show_icons=true&theme=github_dark" />   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Player-spect&layout=compact&theme=github_dark" /> </p>
-
----
 
 <p align="center">
   <b>🔐 Learning Cybersecurity • Building Skills • Breaking Things Ethically</b>
